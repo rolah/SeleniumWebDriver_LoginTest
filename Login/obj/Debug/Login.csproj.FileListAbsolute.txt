@@ -1,0 +1,9 @@
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\Login\bin\Debug\Login.exe.config
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\Login\bin\Debug\Login.exe
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\Login\bin\Debug\Login.pdb
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\Login\obj\Debug\Login.exe
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\Login\obj\Debug\Login.pdb
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\Login\bin\Debug\WebDriver.dll
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\Login\bin\Debug\WebDriver.Support.dll
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\Login\bin\Debug\WebDriver.xml
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\Login\bin\Debug\WebDriver.Support.xml

@@ -1,0 +1,6 @@
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\SeleniumPoc\bin\Debug\SeleniumPoc.exe.config
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\SeleniumPoc\bin\Debug\SeleniumPoc.exe
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\SeleniumPoc\bin\Debug\SeleniumPoc.pdb
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\SeleniumPoc\obj\Debug\SeleniumPoc.csprojResolveAssemblyReference.cache
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\SeleniumPoc\obj\Debug\SeleniumPoc.exe
+c:\users\eva.mehesz\documents\visual studio 2013\Projects\SeleniumPoc\SeleniumPoc\obj\Debug\SeleniumPoc.pdb
