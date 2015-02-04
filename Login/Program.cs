@@ -18,7 +18,7 @@ namespace Login
 
             LoginPage loginPage = new LoginPage(driver);
 
-            loginPage.login("11111", "111111");
+            loginPage.login("xxxxx", "xxxxx");
 
             Console.ReadLine();
         }
